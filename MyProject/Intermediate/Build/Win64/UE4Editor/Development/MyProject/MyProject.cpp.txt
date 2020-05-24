@@ -1,0 +1,2 @@
+D:\UnrealProjects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\UnrealProjects\MyProject\Source\MyProject\MyProject.h
